@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Daily tourist of ITM </TITLE>
+<Style>
+h1
+{
+Color : Blue;
+Font size : 48px;
+}
+P
+{
+Color : Brown;
+Font size : 36px;
+}
+</Style>
+</HEAD>
+<BODY>
+<h1> MY EXPERIENCE IN ITM </h1>
+<p> It is a perfect blend of joy and hardships.</p>
+</BODY>
+</HTML>
